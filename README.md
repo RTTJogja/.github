@@ -19,6 +19,19 @@ The organization profile card should answer three questions:
 It is not a standalone website, a complete repository catalog, or a substitute
 for documentation in the referenced repositories.
 
+## Visual Direction
+
+The organization profile card uses a warm, energetic palette of deep teal,
+coral, gold, and cream. Its visual hierarchy consists of:
+
+- a locally hosted SVG banner with an abstract Jogja landscape
+- high-contrast badges for the primary visitor destinations
+- two concise public-work panels with technology and topic labels
+
+The card must remain understandable when images do not load. Visuals should
+support the public information rather than replace it, and the planned website
+must stay clearly labeled until it is published.
+
 ## Official GitHub Layout
 
 GitHub displays a public organization profile README when:
