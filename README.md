@@ -36,8 +36,8 @@ coral, gold, and cream. Its visual hierarchy consists of:
 - two concise public-work panels with technology and topic labels
 
 The card must remain understandable when images do not load. Visuals should
-support the public information rather than replace it, and the planned website
-must stay clearly labeled until it is published.
+support the public information rather than replace it. The website is in
+development and should be published when it is ready.
 
 ## Official GitHub Layout
 
@@ -55,11 +55,12 @@ repository.
 ## Public Destinations
 
 - GitHub organization: https://github.com/RTTJogja
-- Planned website: https://rttjogja.github.io/
+- Website (in development): https://rttjogja.github.io/
 - Background: https://www.bukitvista.com/round-table-talk-jogja
 - Contact: rttjogja@gmail.com
 
-The planned website currently has no published GitHub Pages site.
+The website is actively being developed and will be published when it is
+ready.
 
 ## Public Work to Feature
 
