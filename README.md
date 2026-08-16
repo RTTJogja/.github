@@ -8,6 +8,13 @@ organization.
 The root `README.md` is the project definition. The card shown to visitors is
 maintained in [`profile/README.md`](profile/README.md).
 
+## Continuing the Project
+
+The repository tracks `.afk-research/project.json` so AFK Research sessions and
+other contributors can recognize the same project identity. Contributors
+should use this root README as the current project definition and the Git
+history as the record of completed work.
+
 ## Purpose
 
 The organization profile card should answer three questions:
