@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rttjogja.github.io/"><img src="https://img.shields.io/badge/WEBSITE-IN_DEVELOPMENT-E76F51?style=for-the-badge" alt="Website in development"></a>
+  <a href="https://rttjogja.github.io/"><img src="https://img.shields.io/badge/WEBSITE-E76F51?style=for-the-badge" alt="RTTJogja website"></a>
   <a href="https://github.com/orgs/RTTJogja/repositories"><img src="https://img.shields.io/badge/PUBLIC_WORK-EXPLORE-168C8C?style=for-the-badge" alt="Explore public work"></a>
   <a href="mailto:rttjogja@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-F4A261?style=for-the-badge" alt="Email RTT Jogja"></a>
 </p>
